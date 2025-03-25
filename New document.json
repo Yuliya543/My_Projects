@@ -1,0 +1,67 @@
+{
+  "people": [
+    {
+      "id": "4321",
+      "name": "Ivan",
+      "address": {
+        "city": "Kharkiv",
+        "street": "Symska",
+        "building": "5",
+        "apartment": "10"
+      },
+      "contacts": {
+        "telephoneNumber": "335771234",
+        "email": "prostoI@gmail.com",
+        "telegram": "@ivanov15"
+      }
+    },
+    {
+      "id": "4322",
+      "name": "Lydia",
+      "address": {
+        "city": "Cherkasy",
+        "street": "Centlalna",
+        "building": "20",
+        "apartment": "23"
+      },
+      "contacts": {
+        "telephoneNumber": "267805402",
+        "email": "lyfoma@gmail.com",
+        "telegram": "@lidaf"
+      }
+    },
+    {
+      "id": "5523",
+      "name": "Maryna",
+      "address": {
+        "city": "Zlatopil",
+        "street": "Komarova",
+        "building": "3",
+        "apartment": "2"
+      },
+      "contacts": {
+        "telephoneNumber": "806543216",
+        "email": "grytsenko33@gmail.com",
+        "telegram": "@marynka"
+      }
+    },
+    {
+      "id": "7777",
+      "name": "Kyrylo",
+      "address": {
+        "city": "Kyiv",
+        "street": "Svitankova",
+        "building": "123",
+        "apartment": "45"
+      },
+      "contacts": {
+        "telephoneNumber": "956784032",
+        "email": "kyrylvas@gmail.com",
+        "telegram": "@kyrylok"
+      }
+    }
+  ]
+}
+
+
+
